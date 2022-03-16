@@ -1,1 +1,1 @@
-print('wewowiwo')
+print('wewowiwo oo')
